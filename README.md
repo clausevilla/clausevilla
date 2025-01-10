@@ -1,4 +1,4 @@
-### Hi, I'm Claudia 👋
+## Hi, I'm Claudia 👋
 
 👩🏼‍💻 Motivated second-year **Software Engineering** and Management student at **GU|Chalmers.**
 <br>
