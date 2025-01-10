@@ -6,4 +6,4 @@
 <br>
 💻 Solid background in **Web Development, Agile Methodologies** and **Data Structures and Algorithms.**
 
-Open to collaboration and **eager** to participate in innovative projects! 
+Open to collaboration and eager to participate in innovative projects! 
