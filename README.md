@@ -26,7 +26,11 @@ Open to collaboration and eager to participate in innovative projects! [<img ali
 <img align="left" alt="mongodb" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 <i align="left" alt="ts" width="40px" class="devicon-typescript-plain colored"></i>         
 <img align="left" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="vitejs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+<img align="left" alt="react" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
+          
+          
+          
           
           
           
