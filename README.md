@@ -1,4 +1,4 @@
-## Hi, I'm Claudia 👋
+## Hi, I'm Claudia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 👩🏼‍💻 Motivated second-year **Software Engineering** and Management student at **GU|Chalmers.**
 <br>
