@@ -9,7 +9,6 @@
 Open to collaboration and eager to participate in innovative projects! [<img align="right" alt="Inst" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/csev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clausevilla&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clausevilla&layout=compact&cache_seconds=86400)
 
 ### Languages and Tools:
 
