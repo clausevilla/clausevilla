@@ -14,7 +14,7 @@ Open to collaboration and eager to participate in innovative projects! [<img ali
 ### Languages and Tools:
           
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,js,ts,nestjs,java,mysql,mongo,arduino,c,cpp,html,css,py,react,unity,cs" />
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,js,ts,nestjs,java,mysql,mongo,arduino,c,cpp,html,css,py,react,unity,cs&perline=9" />
   </a>
 
           
