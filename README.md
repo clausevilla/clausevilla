@@ -4,7 +4,7 @@
 <br>
 👾 Passion for innovative research, teamwork projects, and continuous learning.
 <br>
-💻 Solid background in Distributed Systems, Cyber-Physical Systems, AI Systems and Data Structures.
+💻 Solid background in Distributed Systems, AI Systems, and Machine Learning.
 
 <img src="https://github.com/user-attachments/assets/3f44d40c-461f-49f9-b29a-9068ef8d31a2" width="13"/> <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <br>
 Open to collaboration and eager to participate in innovative projects! [<img align="right" alt="Inst" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/csev)
