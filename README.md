@@ -1,6 +1,6 @@
 ## Hi, I'm Claudia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-👩🏼‍💻 Motivated third-year Software Engineering and Management student at **GU|Chalmers.**
+👩🏼‍💻 Motivated Software Engineering student at **GU|Chalmers.**
 <br>
 👾 Passion for innovative research, teamwork projects, and continuous learning.
 <br>
