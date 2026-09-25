@@ -1,6 +1,6 @@
 ## Hi, I'm Claudia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Software Engineer | MSc student in AI and Language at **Stockholm University.**
+Driverless Software Engineer at KTH Formula Student | MSc student in AI and Language at Stockholm University.
 <br>
 - Passion for innovative research, teamwork projects, and continuous learning.
 - Solid background in software automation and applied AI/ML systems.
